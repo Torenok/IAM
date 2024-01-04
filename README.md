@@ -1,11 +1,3 @@
-# Работа с сервисами IAM
-
-# Репозиторий с файлами
-
----
-
-[https://github.com/Torenok/IAM](https://github.com/Torenok/IAM)
-
 # Yandex Cloud
 
 ---
